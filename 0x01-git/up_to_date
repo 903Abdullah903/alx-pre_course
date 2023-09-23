@@ -1,10 +1,1 @@
-Git commands used
-git touch
-git add .
-git commit -m
-git branch
-git branch name
-git checkout name
-git log 
-git status
-add name name name
+"git pull"
